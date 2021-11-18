@@ -1,0 +1,208 @@
+timestamp,customer name,customer number,date ordered,location,Product ordered [solo-man],Product ordered [twin-pack],Product ordered [sherehe-pack],Total spent,Platform ordered from,Payment-status
+9/29/2021 7:54:25,Stacey Adongo,0715914473,9/10/2021,Ngumo,,,1,1369,Direct-Message,Paid
+9/29/2021 7:56:09,Esther Kioko,0710726981,9/10/2021,Senteu Plaza Kilimani,,1,,669,Whatsapp,Paid
+9/29/2021 7:57:47,Tracey,0704120608,9/10/2021,Kindaruma Rd,1,,,469,Direct-Message,Paid
+9/29/2021 7:59:57,Ngugi Gitimu,0701409019,9/10/2021,Upper Hill,1,,,469,Whatsapp,Paid
+9/29/2021 8:26:15,Wanza,0708726924,9/10/2021,Karen End,1,,,369,Whatsapp,Paid
+9/29/2021 8:39:37,Tiffany Nungari,0703518974,9/10/2021,Uthiru,,1,1,2100,Whatsapp,Paid
+9/29/2021 8:40:45,Jacqueline  Wang'ombe,0724464200,9/11/2021,Ndwaru Rd,,1,,669,Call,Paid
+9/29/2021 8:41:50,Carol Nkinda,0720231712,9/11/2021,South B,,,1,1719,Whatsapp,Paid
+9/29/2021 8:48:02,Alphy,0724218715,9/14/2021,Kinoo,,,1,1369,Whatsapp,Paid
+9/29/2021 8:49:27,Meshack,0740129658,9/14/2021,Rongai,,1,,669,Whatsapp,Paid
+9/29/2021 8:50:28,Ivy Goko,0710660299,9/14/2021,Upper Hill,1,,,369,Whatsapp,Paid
+9/29/2021 8:52:08,Mike,0723752601,9/14/2021,Precious Gardens,,1,,669,Call,Paid
+9/29/2021 8:53:19,Jozie,0791697840,9/14/2021,Kilimani,1,,,369,Call,Paid
+9/29/2021 8:54:24,Moses Watatua,0733601247,9/15/2021,South B,,1,,969,Whatsapp,Paid
+9/29/2021 8:55:28,Grace,0743369227,9/15/2021,Galleria,,1,,769,Whatsapp,Paid
+9/29/2021 8:57:55,Carol Gacheru,0718659645,9/16/2021,Syokimau,,,1,1769,Whatsapp,Paid
+9/29/2021 8:59:41,Jackson,0737308983,9/16/2021,Precious Gardens,1,1,,1107,Whatsapp,Paid
+9/29/2021 9:00:49,Judy Maina,0724308136,9/16/2021,Ngong Road,,1,,669,Whatsapp,Paid
+9/29/2021 9:03:17,Roy,0705597517,9/17/2021,T-Mall,,2,,1488,Call,Paid
+9/29/2021 9:09:26,Esther Kioko,0710726981,9/17/2021,Senteu Plaza Kilimani,1,,,369,Whatsapp,Paid
+9/29/2021 9:10:28,Lilian,0722957671,9/17/2021,Kilimani,,1,,769,Whatsapp,Paid
+9/29/2021 9:12:36,Kirii,0727206922,9/21/2021,ABC Place,,,1,1669,Whatsapp,Paid
+9/29/2021 9:13:32,Judy Maina,0703486415,9/21/2021,Ngong Road,,1,,669,Whatsapp,Paid
+9/29/2021 9:16:44,Muiru,0719480804,9/21/2021,Dagoretti,1,,,369,Whatsapp,Paid
+9/29/2021 9:19:03,Jackson,0737308983,9/22/2021,Precious Gardens,6,,,2214,Whatsapp,Paid
+9/29/2021 9:21:26,Humphrey,0700288070,9/22/2021,Nairobi West,,1,,769,Call,Paid
+9/29/2021 9:23:51,Davies ,0701762626,9/23/2021,Kileleshwa,,1,,669,Whatsapp,Paid
+9/29/2021 9:25:14,Tiffany Nungari,0703518974,9/23/2021,Westlands,1,,,519,Whatsapp,Paid
+9/29/2021 9:28:17,Gitakaa,0708757247,9/23/2021,Roasters Thika Rd,3,,,1507,Call,Paid
+9/29/2021 9:34:08,Lee Ndung'u,0710368439,9/24/2021,Lunga Lunga Rd,3,,,1457,Whatsapp,Paid
+9/29/2021 9:35:54,Ivy Goko,0710660299,9/24/2021,Upper Hill,1,,,369,Whatsapp,Paid
+9/29/2021 9:37:10,Kyle,0759381401,9/24/2021,Sunning Hills King'ara Rd,,1,,669,Call,Paid
+9/29/2021 9:39:57,Benito,0702550412,9/25/2021,Naivasha Rd,1,,1,1739,Direct-Message,Paid
+9/29/2021 9:41:24,Mike,0723752601,9/26/2021,Precious Gardens,,1,,669,Call,Paid
+9/29/2021 9:43:13,Valeria,0717531079,9/26/2021,Rongai,,1,,1169,Call,Paid
+9/29/2021 9:44:50,Davies,0701762626,9/26/2021,Kileleshwa,,1,,669,Call,Paid
+9/29/2021 9:46:13,Carol Nkinda,0720231712,9/26/2021,South B,,,1,1719,Whatsapp,Paid
+9/29/2021 9:47:29,Mwai,0726989824,9/26/2021,Border,,,1,1369,Call,Paid
+9/29/2021 9:48:40,Ngugi Gichuki,0703118668,9/26/2021,Karen End,1,,,369,Call,Paid
+9/29/2021 9:50:38,Lisa,0717203600,9/28/2021,Galleria,1,,,469,Call,Paid
+9/29/2021 9:51:47,Gathu,0734584002,9/28/2021,Dagoretti,1,,,369,Call,Paid
+9/30/2021 10:16:26,Helen,0712823160,9/29/2021,Upper Hill,,,1,1469,Call,Paid
+9/30/2021 10:21:59,Maryanne,0714425843,9/30/2021,Ngong Road,,1,,669,Direct-Message,On-delivery
+9/30/2021 10:22:59,Tony,0799243956,9/30/2021,Nairobi West,1,,,469,Call,On-delivery
+10/5/2021 19:23:35,Matthew,0721331501,10/1/2021,Syokimau,1,,,519,Whatsapp,Paid
+10/5/2021 19:30:09,Dave,0706183189,10/1/2021,Muthiga,,,1,1369,Call,Paid
+10/5/2021 19:32:55,Monicah,0711604094,10/1/2021,Lower Kabete,,1,,869,Direct-Message,Paid
+10/5/2021 19:54:25,Esther,0710726981,10/1/2021,Kilimani Senteu Plaza,,1,,669,Whatsapp,Paid
+10/5/2021 19:57:25,Charles,0723699495,10/1/2021,Kikuyu,,1,,669,Call,Paid
+10/5/2021 20:02:07,Neema,0717451624,10/1/2021,Daystar Ngong Rd,,1,,669,Call,Paid
+10/5/2021 20:10:47,Rhoda,0713434764,10/1/2021,Kilimani,1,,,369,Call,Paid
+10/5/2021 20:11:48,Maggie,0722756127,10/1/2021,Syokimau,1,,,519,Call,Paid
+10/5/2021 20:16:01,Mara,0722806488,10/1/2021,Border,3,3,,3087,Call,Paid
+10/8/2021 15:07:23,Rhoda,0713434764,10/2/2021,Kikuyu Rd,1,1,,1068,Call,Paid
+10/8/2021 15:09:28,Kyle,0759381401,10/2/2021,King'ara Rd,,1,,669,Call,Paid
+10/8/2021 15:11:53,Mumbi,0725573050,10/2/2021,Dagoretti,,,1,1369,Whatsapp,Paid
+10/8/2021 15:22:43,Elizabeth,0722804410,10/2/2021,Border,,1,,670,Call,Paid
+10/8/2021 15:27:14,Dave,0706183189,10/2/2021,Muthiga,1,,,369,Whatsapp,Paid
+10/8/2021 15:28:25,Gathu,0742589531,10/2/2021,Dagoretti,,1,,669,Call,Paid
+10/8/2021 15:30:21,Mike,0723752601,10/3/2021,Precious Gardens Riruta,,1,,669,Whatsapp,Paid
+10/8/2021 15:31:32,Kamdoss,0721220488,10/3/2021,Dagoretti,,,1,1300,Call,Paid
+10/8/2021 15:32:54,Jackson ,0737308983,10/3/2021,Precious Gardens Riruta,,,1,1369,Whatsapp,Paid
+10/8/2021 15:44:03,Mara,0722806488,10/3/2021,Border,1,,,369,Call,Paid
+10/8/2021 15:56:30,Brian,0716592266,10/5/2021,Legacy Apartments Naivasha Rd,,1,,669,Call,Paid
+10/8/2021 15:57:56,Pauline,0720607041,10/5/2021,CBD,,1,,669,Call,Paid
+10/8/2021 16:25:05,Zawadi,0738054805,10/5/2021,Riruta Satellite,,1,,669,Call,Paid
+10/8/2021 16:32:39,Anita Makanye,0706601232,10/6/2021,Adlife Plaza,1,,,369,Call,Paid
+10/8/2021 16:35:05,Chelsea,0112310446,10/6/2021,Santack Estate Ngong Rd,,1,,669,Whatsapp,Paid
+10/8/2021 16:38:35,Tabitha,0721561264,10/6/2021,One Padmore ,1,,,369,Whatsapp,Paid
+10/8/2021 16:42:31,Pauline,0740117028,10/6/2021,Koinange Street,1,,,469,Call,Paid
+10/8/2021 16:49:58,Ian,0708463319,10/6/2021,King'ara Rd,,,1,1369,Call,Paid
+10/8/2021 16:55:06,Charles,0723699495,10/6/2021,Ngong Rd,,1,,669,Call,Paid
+10/8/2021 17:00:47,Leon,0701882193,10/6/2021,Kikuyu,,,1,1369,Call,Paid
+10/8/2021 17:02:26,Davies,0701762626,10/6/2021,Kileleshwa,,1,,669,Call,Paid
+10/8/2021 17:05:38,Kenyatta,0717881405,10/6/2021,Treasure Gardens Kilimani,1,,,369,Call,Paid
+10/8/2021 17:07:41,Brenda,0705569952,10/7/2021,Jamhuri,1,,,369,Call,Paid
+10/8/2021 17:09:34,Mwanyolo,0726945427,10/7/2021,Ngumo,,1,,669,Call,Paid
+10/8/2021 17:11:24,Mike,0723752601,10/7/2021,Precious Gardens Riruta,,1,,669,Whatsapp,Paid
+10/8/2021 17:13:25,Raphael,0729822435,10/7/2021,Kikuyu,1,,,369,Call,Paid
+10/8/2021 17:17:47,Bianca,0713889928,10/8/2021,Kinoo 87,1,,,369,Call,Paid
+10/8/2021 17:19:46,Esther,0710726981,10/8/2021,Senteu Plaza Kilimani,,1,,669,Whatsapp,Paid
+10/8/2021 17:20:50,Joseph,0733657771,10/8/2021,Uthiru,,,1,1369,Call,Paid
+10/8/2021 17:23:43,Leah Macharia,0713028206,10/8/2021,Loresho,,1,,669,Whatsapp,Paid
+10/8/2021 17:25:16,Ariel,0726639076,10/8/2021,Ngong Rd,1,,,369,Call,Paid
+10/8/2021 17:27:11,Chayn,0722781044,10/8/2021,Riara Rd,,1,,669,Call,Paid
+10/8/2021 17:28:47,Melody,0727569614,10/8/2021,Naivasha Rd,1,,,369,Call,Paid
+10/8/2021 17:30:06,Leah,0735987680,10/8/2021,Naivasha Rd,1,1,,1038,Call,On-delivery
+10/10/2021 10:56:50,Joseph mara,0722806488,10/9/2021,dagoretti,,1,,669,Call,pending
+10/10/2021 11:42:53,craig,0769873574,10/9/2021,karen,,1,,669,Call,Paid
+10/10/2021 11:44:53,wambui,0758082981,10/9/2021,kawangware,,1,,670,Whatsapp,Paid
+10/10/2021 11:46:01,makena,0703761006,10/9/2021,westlands,1,,,369,Call,Paid
+10/10/2021 11:47:14,benson,0702550412,10/9/2021,kawangware,,1,,669,Direct-Message,Paid
+10/10/2021 11:48:20,njoki,0727687883,10/9/2021,lavington,,,1,1370,Call,Paid
+10/10/2021 11:49:20,gathu,0742589531,10/9/2021,dagoretti,1,,,369,Call,Paid
+10/10/2021 18:08:59,Gakere,0722788001,10/10/2021,Dagoretti,,1,,669,Call,Paid
+10/10/2021 18:10:51,Ngugi,0703118668,10/10/2021,Karen Heights,1,,,369,Call,Paid
+10/10/2021 18:12:26,Mike,0723752601,10/10/2021,Precious Gardens Riruta,,1,,669,Call,Paid
+10/10/2021 18:16:08,Nduta,0712591199,10/10/2021,Lavington,,,1,1369,Call,Paid
+10/10/2021 18:25:49,Craig,0769873574,10/10/2021,Karen,,1,,669,Call,Paid
+10/10/2021 18:27:14,Rhoda,0713434764,10/10/2021,Kikuyu Rd,1,1,,1038,Whatsapp,Paid
+10/10/2021 18:29:03,Carol Nkinda,0720231712,10/10/2021,South B,,,1,1719,Call,Paid
+10/24/2021 16:42:47,Tony,0799243956,10/13/2021,Nairobi west,,1,,669,Call,Paid
+10/24/2021 16:44:13,Bantu,0792274526,10/13/2021,Kilimani,1,,,369,Call,Paid
+10/24/2021 16:51:57,Karen Emily,708129533,10/13/2021,Nairobi west,1,,,369,Call,Paid
+10/24/2021 16:54:06,Amani,0724328221,10/13/2021,Thika rd,,1,,950,Call,Paid
+10/24/2021 16:55:39,Evanson,0712791917,10/13/2021,Gichungo,,1,,669,Call,Paid
+10/24/2021 16:57:53,Rhoda,0713434764,10/13/2021,Kilimani,1,1,,1068,Call,Paid
+10/24/2021 17:00:54,Ivy cecilia,0798159342,10/13/2021,Donholm,,1,,969,Call,Paid
+10/24/2021 17:06:05,Joel,0705791871,10/15/2021,Uthiru,,2,,1440,Call,Paid
+10/24/2021 17:09:09,Evelyn njoki,0702113333,10/15/2021,Aramex,1,,,370,Call,Paid
+10/24/2021 17:11:41,Joyce wangui,0729371001,10/15/2021,Aramex,1,,,370,Call,Paid
+10/24/2021 17:14:49,Evelyn’s gitimu,0714149400,10/15/2021,Aramex,1,,,370,Call,Paid
+10/24/2021 17:23:15,George,0791791139,10/15/2021,Aramex,1,,,370,Call,Paid
+10/24/2021 17:24:47,Cyrus,0726857179,10/15/2021,Aramex,2,,,740,Call,Paid
+10/24/2021 17:27:28,Elizabeth,0722239457,10/15/2021,Aramex,3,,,1110,Call,Paid
+10/24/2021 17:29:26,Margaret ,0722756127,10/15/2021,N/A,,,,2400,Call,Paid
+10/24/2021 17:30:48,Faith,0715014231,10/15/2021,Aramex,1,,,370,Call,Paid
+10/24/2021 17:32:18,Grace,0708173884,10/15/2021,Aramex,1,,,370,Call,Paid
+10/24/2021 17:33:40,Alice,0722969097,10/15/2021,Aramex,4,,,1480,Call,Paid
+10/24/2021 17:43:32,Annabel,0792353566,10/15/2021,Aramex,2,,,769,Call,Paid
+10/24/2021 17:44:49,Judy,0703486415,10/15/2021,Ngong road,,1,,670,Call,Paid
+10/24/2021 17:49:05,Micheal,0723752601,10/15/2021,Riruta,,2,,1338,Call,Paid
+10/24/2021 17:51:02,Ephantus,0725535771,10/15/2021,Gichungo,,1,,669,Call,Paid
+10/24/2021 17:53:36,Kimberly,0719594996,10/15/2021,Kenyatta university,,1,,699,Call,Paid
+10/24/2021 17:58:43,Ivy,0707545707,10/16/2021,Kawangware,,1,,670,Call,Paid
+10/24/2021 18:01:10,Davies,0701762626,10/15/2021,Kileleshwa,1,,,339,Call,Paid
+10/24/2021 18:03:54,Tiffany,0703518974,10/16/2021,N/A,,1,1,2038,Call,Paid
+10/24/2021 18:08:21,Margaret,0722756127,10/15/2021,N/A,1,,,369,Call,Paid
+10/24/2021 18:10:31,Nancy,0726989824,10/16/2021,Border,,,1,1360,Call,Paid
+10/24/2021 18:12:38,Alphy ,0724218715,10/20/2021,Kinoo,,,1,1299,Call,Paid
+10/24/2021 18:13:53,Lee,0710368439,10/21/2021,N/A,1,,,370,Call,Paid
+10/24/2021 18:16:48,Stephanie,0723624890,10/22/2021,Ndumbuini,,1,,719,Call,Paid
+10/24/2021 18:18:11,Maara,0724055492,10/22/2021,Center,1,,,370,Call,Paid
+10/24/2021 18:19:12,Victor,0705470607,10/22/2021,Lavington ,1,,,369,Call,Paid
+10/24/2021 18:21:00,Isabel,0722403044,10/22/2021,Upperhill,3,,,1167,Call,Paid
+10/24/2021 18:22:03,Charles,0723699495,10/22/2021,Kikuyu,,1,,670,Call,Paid
+10/24/2021 18:24:01,Karen njiru,0727130026,10/22/2021,Kilimani,,1,,669,Call,Paid
+10/24/2021 18:25:25,Edwin,0715576111,10/22/2021,Kilimani,6,,,2214,Call,Paid
+10/24/2021 18:27:15,Judy ,0703486415,10/22/2021,Ngong rd,,1,,670,Call,Paid
+10/24/2021 18:36:28,Mike,0723752601,10/23/2021,Precious Gardens,,1,,669,Call,Paid
+10/24/2021 18:37:34,Chayn,0722781044,10/23/2021,Riara Road,,1,,669,Call,Paid
+10/24/2021 18:39:56,Karen Mwangi,0704033103,10/23/2021,Kikuyu Rd,,1,,669,Call,Paid
+10/24/2021 18:41:17,Michelle Njoki,0727687883,10/23/2021,Hatheru Rd,,,1,1369,Call,Paid
+10/24/2021 18:43:14,Carol Karangi,0720883041,10/24/2021,Kingara Rd,,,,3000,Call,Paid
+10/24/2021 18:44:47,Jacqueline ,0724464200,10/24/2021,Ndwaru Rd,,1,,699,Call,Paid
+10/24/2021 18:46:29,Kamdoss,0721220488,10/24/2021,Dagoretti,,,,300,Call,Paid
+10/24/2021 18:47:48,Mike,0723752601,10/24/2021,Precious Gardens,1,,,369,Whatsapp,Paid
+10/24/2021 18:49:04,Alice Wairimu,0722804211,10/24/2021,Dagoretti,,,,240,Call,Paid
+10/24/2021 18:50:29,Remmy,0708607462,10/24/2021,Kinyanjui Rd Riruta,1,1,,1038,Call,Paid
+10/24/2021 18:51:47,John,0722780488,10/24/2021,Border,,1,,738,Call,Paid
+10/27/2021 14:38:56,Joel,0705791871,10/26/2021,Cooperation ,,,1,1420,Call,Paid
+10/27/2021 16:01:52,Helen,0712823160,10/26/2021,Naivasha Rd,,1,,669,Whatsapp,Paid
+10/27/2021 16:03:21,Brian,0716592266,10/26/2021,Naivasha road,,,1,1369,Call,Paid
+10/27/2021 16:05:03,Eugene,0712017881,10/27/2021,Ligi ndogo,1,,,369,Call,Paid
+10/27/2021 16:06:44,George,0707618187,10/27/2021,Kilimani,1,,,369,Call,Paid
+10/27/2021 16:08:21,Kimani,0702378038,10/27/2021,Uthiru,1,,,420,Direct-Message,Paid
+10/27/2021 16:10:27,Mesfin,0702378038,10/27/2021,Karen,1,,,419,Call,Paid
+11/2/2021 15:29:57,Cynthia,0726260366,10/29/2021,Fosroc Kenya,1,,,369,Whatsapp,Paid
+11/2/2021 15:31:03,Maggie,0722756127,10/29/2021,Fosroc ,1,,,519,Call,Paid
+11/2/2021 15:33:18,Nicole Lagat,0704599533,10/29/2021,JKUAT towers CBD,,,1,1469,Whatsapp,Paid
+11/2/2021 15:35:45,Judy,0703486415,10/30/2021,Ngong Rd SGS,,,,3800,Call,Paid
+11/2/2021 15:37:54,John,0722780488,10/30/2021,Border,2,,,738,Call,Paid
+11/2/2021 15:48:11,Kevin,0719387879,10/30/2021,Ndwaru Rd,,1,,669,Call,Paid
+11/2/2021 15:53:23,Mike,0723752601,10/30/2021,Precious Gardens Riruta,1,,,369,Whatsapp,Paid
+11/2/2021 15:56:03,Faith Nyambu,0790692657,10/30/2021,Coast Rd Kawangware,1,,,369,Call,Paid
+11/2/2021 15:58:40,Wambugu Wambugu,0743931827,10/30/2021,Kwa Siz Yako,1,,,369,Call,Paid
+11/2/2021 16:01:00,Jackson ,0796112229,10/30/2021,Precious Gardens Riruta,,,,738,Call,Paid
+11/2/2021 16:05:57,Mike,0723752601,10/30/2021,Precious Gardens Riruta,1,,,369,Call,Paid
+11/2/2021 16:10:40,Alice Wairimu,0722804211,10/30/2021,Dagoretti,,,,240,Call,Paid
+11/2/2021 16:36:28,Tiffany Karegi,0707951506,11/2/2021,Kilimani,1,,,369,Call,Paid
+11/4/2021 15:59:21,Mary Mumbi ,0725573050,11/4/2021,Kingdom Bank Kilimani,1,,,369,Whatsapp,Paid
+11/4/2021 16:00:52,Tracy Wanjiru,0702898560,11/4/2021,The Hub,,,1,1420,Text,Paid
+11/4/2021 16:02:23,June,0707089003,11/4/2021,George Padmore Ridge,1,,,369,Whatsapp,Paid
+11/4/2021 16:06:55,Eugene,0712017881,11/4/2021,Ligi Ndogo Ngong Rd,1,,,369,Whatsapp,Paid
+11/4/2021 16:09:36,Valeria,0717531079,11/4/2021,Langata Jupiter Resort,,1,,769,Call,Paid
+11/5/2021 14:08:07,Shani,0718411160,11/5/2021,ADD Building ,,1,,769,Whatsapp,Paid
+11/5/2021 14:10:27,Karen,0727130026,11/5/2021,Galleria ,1,,,599,Whatsapp,Paid
+11/5/2021 14:12:41,Patricia,0701033743,11/5/2021,Cooperative House,,1,,769,Whatsapp,pending
+11/5/2021 14:13:53,Esther,0710726891,11/5/2021,Senteu Plaza Kilimani,,1,,669,Whatsapp,On-delivery
+11/5/2021 14:16:57,Grace,0707089003,11/5/2021,George Padmore Ridge,2,,,768,Whatsapp,On-delivery
+11/5/2021 18:24:38,lisa,0717203600,11/5/2021,kileleshwa,1,1,,1088,Call,Paid
+11/5/2021 18:35:48,Ethan,0798463148,11/5/2021,south c,1,1,,1138,Direct-Message,Paid
+11/7/2021 13:41:35,Victor Karanja,0711353618,11/6/2021,Siwaka Estate,1,,,470,Call,Paid
+11/7/2021 13:43:29,Chayn,0722781044,11/6/2021,Jade Gardens Riara Rd,1,,,369,Call,Paid
+11/7/2021 13:45:09,Gitakaa Waweru,0708757247,11/6/2021,JM Gardens Thika road,,1,,970,Whatsapp,Paid
+11/7/2021 13:47:23,John Border,0722780488,11/6/2021,Border ,2,,,738,Call,Paid
+11/7/2021 13:50:14,Mike Border,0722788001,11/6/2021,Border,,1,,669,Call,pending
+11/7/2021 13:51:37,Mike,0723752601,11/6/2021,Precious Gardens Riruta ,1,,,369,Call,Paid
+11/7/2021 15:21:38,Patricia ,0734279480,11/7/2021,Adams Arcade Elgeyo Rd,,1,,669,Whatsapp,Paid
+11/7/2021 15:23:03,Gloria Muli,0746199107,11/7/2021,Ngong,1,,,519,Whatsapp,Paid
+11/7/2021 15:23:59,Maryanne,0714425843,11/7/2021,Gitaru ,,1,,770,Call,Paid
+11/8/2021 16:23:42,Kirii,0727206922,11/7/2021,Banana Platinum Estate,,,1,1719,Whatsapp,Paid
+11/10/2021 11:59:26,Chayn,0722781044,11/9/2021,Jade Gardens,1,,,370,Call,Paid
+11/10/2021 12:03:50,Stacey Wambuli ,0740129650,11/9/2021,Sohail Gardens,1,,,400,Whatsapp,Paid
+11/10/2021 12:05:15,Chelsea Malowa,0112310446,11/9/2022,Santack Estate,,1,,670,Whatsapp,Paid
+11/10/2021 12:17:01,John,0722780488,11/9/2021,Border,3,,,1110,Call,Paid
+11/10/2021 12:19:13,David,0722759344,11/9/2021,Border,1,,,400,Call,Paid
+11/10/2021 12:21:06,Kamdoss,0721220488,11/9/2021,Border,1,,,400,Call,Paid
+11/10/2021 12:22:23,Paula Ali,0716775723,11/10/2021,Mpaka Rd Westlands ,1,,,540,Direct-Message,Paid
+11/11/2021 10:43:55,Duki,0707545707,11/10/2021,South B Quickmart,1,,,669,Call,Paid
+11/11/2021 10:46:49,Davies,0701762626,11/10/2021,Kileleshwa ,1,,,369,Call,Paid
+11/11/2021 10:49:11,Mike,0723752601,11/10/2021,Precious Gardens ,,1,,669,Whatsapp,Paid
+11/11/2021 10:50:23,Willard,0707618187,11/10/2021,One Padmore Place,1,,,370,Whatsapp,Paid
+11/11/2021 10:51:37,Michael Njenga,0796887791,11/10/2021,Dagoretti,2,,,738,Call,Paid
+11/11/2021 17:00:36,ivy goko,0710660299,11/11/2021,KMTC,1,,,369,Call,Paid
+11/11/2021 17:01:36,willard,0707618187,11/11/2021,one padmore,2,,,738,Whatsapp,Paid
+11/11/2021 17:02:24,orina,0717356476,11/11/2021,one padmore,1,,,369,Whatsapp,Paid
